@@ -58,7 +58,7 @@ Follow me for beginner-friendly Laravel content on:
 
 ## 🏷️ Tags
 
-`#Laravel` `#PHP` `#MVC` `#WebDevelopment` `#Blade` `#Eloquent` `#LaravelForBeginners`
+`#Laravel` `#PHP` `#Routing` `#WebDevelopment` `#Blade` `#Eloquent` `#LaravelForBeginners` `#WebRouting` `#ApiRouting`
 
 ```
 
