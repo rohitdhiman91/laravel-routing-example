@@ -43,3 +43,22 @@ php artisan serve
 - `http://127.0.0.1:8000/api/users`  
   👉 This returns a **JSON response** from the `UserController` via a route defined in `api.php`.  
   It uses the `api` middleware group, which is stateless — perfect for APIs.
+
+---
+
+## 📩 Stay Connected
+
+Follow me for beginner-friendly Laravel content on:
+
+* GitHub: [@rohitdhiman91](https://github.com/rohitdhiman91)
+* Substack: https://rohitdhiman91.substack.com
+* Instagram: [@rohitdhiman91](https://instagram.com/rohitdhiman91)
+
+---
+
+## 🏷️ Tags
+
+`#Laravel` `#PHP` `#MVC` `#WebDevelopment` `#Blade` `#Eloquent` `#LaravelForBeginners`
+
+```
+
